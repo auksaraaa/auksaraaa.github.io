@@ -11,5 +11,8 @@ Welcome to my GitHub profile!
 ## 📫 Connect with Me
 - 📧 Email: auksara.s@ku.th
 - 🌐 Line: auksara_65
+
+## 📁 Work 
+- 📓 Assignment: [📚parity-bits](parity-bits)
   
 ![me](MEITU_20241110_191116000.jpg)
