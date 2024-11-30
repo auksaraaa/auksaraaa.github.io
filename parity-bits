@@ -26,4 +26,4 @@
 
 ---
 
-## 📁 URL: [Parity Bits Documentation](https://teerakorn47.github.io/parity-bits)
+## 📁 URL: https://teerakorn47.github.io/parity-bits
