@@ -112,6 +112,6 @@
         </tbody>
     </table>
 
-    <p>📁 URL: <a href="https://teerakorn47.github.io/parity-bits" target="_blank">https://teerakorn47.github.io/parity-bits</a></p>
+    <p>📁 URL: <a href="https://teerakorn47.github.io" target="_blank">https://teerakorn47.github.io/parity-bits</a></p>
 </body>
 </html>
