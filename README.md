@@ -13,6 +13,6 @@ Welcome to my GitHub profile!
 - 🌐 Line: auksara_65
 
 ## 📁 Work 
-- 📓 Assignment: [📚parity-bits](parity-bits)
+- 📓 Assignment: [📚parity-bits](parity-bits.md)
   
 ![me](MEITU_20241110_191116000.jpg)
