@@ -1,7 +1,7 @@
   
-## 📚 Keywords: **Parity Bits**  
+## 📚 **Parity Bits**  
 
-### 📖 CISSP Glossary  
+### 📖 CISSP Glossary - Student Guide 
 | **Source**          | **Definition**                                                                                                                                     |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | **CISSP Glossary**  | RAID Technique;Logical mechanism used to mark striped data; allows recovery of missing drive(s) by pulling data from adjacent drives.                           |
@@ -10,7 +10,7 @@
 
 ---
 
-### 📖 2nd Source (NIST)  
+### 📖 NIST
 | **Source**          | **Definition**                                                                                                                                     |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | **NIST**            | A checksum that is computed on a block of bits by computing the binary sum of the individual bits in the block and then discarding all but the low-order bit of the sum. See checksum. |
