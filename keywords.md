@@ -1,5 +1,4 @@
-# 6530200886.github.io  
-
+  
 ## 📚 Keywords: **Parity Bits**  
 
 ### 📖 CISSP Glossary  
