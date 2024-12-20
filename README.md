@@ -15,6 +15,7 @@ Welcome to my GitHub profile!
 - 🌐 Line: auksara_65
 
 ## 📁 Work 
-- 📓 Assignment: [📚parity-bits](parity-bits.md)
+- 📓 Glossary: [📚parity-bits](parity-bits.md)
+- 🎄 e-card: [🎅✨e-card](e-card.md)
   
 ![me](image/MEITU_20241110_191116000.jpg)
