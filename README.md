@@ -17,4 +17,4 @@ Welcome to my GitHub profile!
 ## 📁 Work 
 - 📓 Assignment: [📚parity-bits](parity-bits.md)
   
-![me](MEITU_20241110_191116000.jpg)
+![me](image/MEITU_20241110_191116000.jpg)
