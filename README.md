@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 
 ---
 ## 🌟 About Me
-- 🧚🏻‍♀️ Name **Auksara Suwannawayuk**
-- 🪪 Nisit **6530200886**
-- 🎓 Currently studying **Kasetsart University, Sriracha Campus**
+- 🎀 Name: **Auksara Suwannawayuk**
+- 💳 Nisit ID: **6530200886**
+- 🎓 Currently studying: **Kasetsart University, Sriracha Campus**
 - 💻 Interested in **System Analysis** and **Website Development**
 - 🎯 My goal:To embrace learning, no matter how unfamiliar the subject is
   
