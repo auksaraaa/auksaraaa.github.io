@@ -17,5 +17,6 @@ Welcome to my GitHub profile!
 ## 📁 Work 
 - 📓 Glossary: [📚parity-bits](parity-bits.md)
 - 🎄 e-card: [🎅✨e-card](e-card.md)
+- 📓 Data quality: [📚data accuracy](accuracy.md)
   
 ![me](image/MEITU_20241110_191116000.jpg)
