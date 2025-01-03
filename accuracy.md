@@ -19,3 +19,7 @@
 
 3. **✈️ การเลือกวันเดินทางในแอปจองตั๋ว**  
    การจองวันที่ผิดอาจทำให้เสียค่าใช้จ่ายในการเปลี่ยนตั๋ว หรือพลาดการเดินทางได้  
+
+---
+
+**Source**: [SailPoint - Data Accuracy](https://www.sailpoint.com/identity-library/data-accuracy)
