@@ -21,13 +21,9 @@ Let’s make this Christmas a season of happiness and cheer! 🎉🎄
 
 ---  
 
-### 🎁 **Special Christmas Activities in Thailand:**  
-1. 🎡 **Stroll through Christmas light displays at shopping malls.**  
-2. 🍰 **Bake simple cakes or treats with friends and exchange small gifts.**  
-3. 🌴 **Host a cozy garden or beach party with delicious Thai food.**  
-4. 📸 **Take photos with extravagant Christmas trees at popular attractions.**  
 
-![christmas](image/christmassss.png)  
+
+![christmas](image/christmass.png)  
 
 ---  
 
