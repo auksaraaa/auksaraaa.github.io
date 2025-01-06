@@ -23,7 +23,7 @@ Let’s make this Christmas a season of happiness and cheer! 🎉🎄
 
 
 
-![christmas](image/christmass.png)  
+![christmas](image/christmass.jpg)  
 
 ---  
 
