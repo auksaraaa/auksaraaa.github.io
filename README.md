@@ -1,5 +1,5 @@
-## 👋🏻 I'm auksara
-welcome to my github page 😺✨
+# 👋🏻 I'm auksara
+welcome to my github profile 😺✨
 
 ---
 ## 🌟 About Me
