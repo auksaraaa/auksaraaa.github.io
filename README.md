@@ -17,5 +17,6 @@ welcome to my github profile 😺✨
 - 📓 Glossary: [📚parity-bits](parity-bits.md)
 - 🎄 e-card: [🎅✨e-card](e-card.md)
 - 📓 Data quality: [📚data accuracy](accuracy.md)
+- 🎮 board game:[🧩 cyber security board games](board-games.md)
   
 ![me](image/MEITU_20241110_191116000.jpg)
