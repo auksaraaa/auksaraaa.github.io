@@ -1,1 +1,77 @@
-theme: jekyll-theme-merlot
+# ข้อมูลพื้นฐานของเว็บไซต์
+title: My GitHub Pages
+description: Welcome to my website
+author: Your Name
+email: your.email@example.com
+
+# ธีมของเว็บไซต์
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+
+# การตั้งค่าพื้นฐาน
+timezone: Asia/Bangkok
+encoding: UTF-8
+markdown: kramdown
+highlighter: rouge
+
+# การตั้งค่า URL
+url: "https://username.github.io"
+baseurl: "/repository-name"
+permalink: /:year/:month/:day/:title/
+
+# ปลั๊กอินที่ใช้งาน
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# การตั้งค่าการแสดงผล
+show_downloads: true
+google_analytics: UA-XXXXXXXX-X
+logo: /assets/img/logo.png
+
+# การตั้งค่าการแบ่งหน้า
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# การกำหนดค่าเพิ่มเติม
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  docs:
+    output: true
+    permalink: /docs/:path/
+
+# การตั้งค่าการค้นหา
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# การยกเว้นไฟล์และโฟลเดอร์
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .github
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
