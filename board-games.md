@@ -55,7 +55,9 @@
 
 ## 👥 สมาชิกกลุ่ม  
 
-1. **Panumas Chathaisong** – [GitHub Profile](#)  
+╭━━━━━━━━━━━━━━━━━━━╮
+┃ 🎮 [Panumas Chathaisong](https://panumastt1.github.io/boardgame) 🎮 ┃
+╰━━━━━━━━━━━━━━━━━━━╯
 2. **Manitchaya Benjajuedsiri** – [GitHub Profile](https://manitchaya2004.github.io/boardgame)(#)  
 3. **Teerakorn Tangwattanakit** – [GitHub Profile](#)  
 4. **Addeen Salahsakul** – [GitHub Profile](https://itzdeenzxx.github.io/boardgame)(#)  
