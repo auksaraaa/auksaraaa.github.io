@@ -56,9 +56,9 @@
 ## 👥 สมาชิกกลุ่ม  
 
 1. **Panumas Chathaisong** – [GitHub Profile](#)  
-2. **Manitchaya Benjajuedsiri** – [![GitHub Profile](https://manitchaya2004.github.io/boardgame)](#)  
+2. **Manitchaya Benjajuedsiri** – [GitHub Profile](https://manitchaya2004.github.io/boardgame)(#)  
 3. **Teerakorn Tangwattanakit** – [GitHub Profile](#)  
-4. **Addeen Salahsakul** – [![GitHub Profile](https://itzdeenzxx.github.io/boardgame?fbclid=IwZXh0bgNhZW0CMTEAAR0-0Ngsg2pf5_V3JF-GVNELwzOFj8oNnMZF0PQnYmxe5470n2haME6ecUI_aem_kj7g0h8l2Z3eMrgyUPGBcg)](#)  
+4. **Addeen Salahsakul** – [GitHub Profile](https://itzdeenzxx.github.io/boardgame)(#)  
 
 💡 *(สามารถคลิกที่ชื่อเพื่อไปดูโปรไฟล์ GitHub ของแต่ละคนได้เลย!)*  
 
