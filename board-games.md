@@ -53,14 +53,15 @@
 ทีมของพวกเรามาพร้อมกับพลังแห่งความรู้และความสร้างสรรค์!  
 มารู้จักกับสมาชิกแต่ละคนกันเลย 🎉  
 
-## 👥 สมาชิกกลุ่ม  
+## 🌟 **สมาชิกในทีม** 🌟  
 
-╭━━━━━━━━━━━━━━━━━━━╮
-┃[Panumas Chathaisong](https://panumastt1.github.io/boardgame) 🎮                     ┃
-╰━━━━━━━━━━━━━━━━━━━╯
-2. **Manitchaya Benjajuedsiri** – [GitHub Profile](https://manitchaya2004.github.io/boardgame)(#)  
-3. **Teerakorn Tangwattanakit** – [GitHub Profile](#)  
-4. **Addeen Salahsakul** – [GitHub Profile](https://itzdeenzxx.github.io/boardgame)(#)  
+| **ชื่อสมาชิก**                | **ลิงก์ GitHub**              |
+|-------------------------------|-------------------------------|
+| 🎮 **Panumas Chathaisong**     | [GitHub](https://panumastt1.github.io/boardgame)                   |
+| 🎨 **Manitchaya Benjajuedsiri** | [GitHub(https://manitchaya2004.github.io/boardgame)                   |
+| 🛠️ **Teerakorn Tangwattanakit** | [GitHub](#)                   |
+| 🔍 **Addeen Salahsakul**       | [GitHub](https://itzdeenzxx.github.io/boardgame)                   |
+
 
 💡 *(สามารถคลิกที่ชื่อเพื่อไปดูโปรไฟล์ GitHub ของแต่ละคนได้เลย!)*  
 
