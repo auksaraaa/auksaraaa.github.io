@@ -1,0 +1,35 @@
+# ธีมหลัก
+title: "🎀 My Cute Space"
+description: "Welcome to my kawaii corner of GitHub ✨"
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+# ปรับแต่งสี
+colors:
+  header: "#ff69b4"
+  gradient_top: "#ffb6c1"
+  gradient_bottom: "#ffc0cb"
+  link: "#ff1493"
+  hover: "#db7093"
+
+# ตกแต่งเพิ่มเติม
+show_downloads: true
+google_analytics: UA-XXXXXXXX-X
+logo: /assets/img/kawaii-logo.png
+
+# ปลั๊กอินน่ารักๆ
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-emoji
+
+# Custom CSS
+sass:
+  style: compressed
+
+assets:
+  css:
+    - "styles/pink-theme.css"
+  fonts:
+    - "https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
