@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ปรับสีให้เป็นโทนชมพู */
+.page-header {
+  background-color: #FF69B4;
+  background-image: linear-gradient(120deg, #FFB6C1, #FF69B4);
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #FF1493;
+}
+
+.site-footer {
+  border-top: solid 1px #FFB6C1;
+}
+
+a {
+  color: #FF69B4;
+}
+
+a:hover {
+  color: #FF1493;
+}
+
+.btn {
+  background-color: #FFB6C1;
+  border-color: #FF69B4;
+}
+
+.btn:hover {
+  background-color: #FF69B4;
+  border-color: #FF1493;
+}
