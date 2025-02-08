@@ -58,7 +58,7 @@
 | **ชื่อสมาชิก**                | **ลิงก์ GitHub**              |
 |-------------------------------|-------------------------------|
 | 🎮 **Panumas Chathaisong**     | [GitHub](https://panumastt1.github.io/boardgame)                   |
-| 🎨 **Manitchaya Benjajuedsiri** | [GitHub(https://manitchaya2004.github.io/boardgame)                   |
+| 🎨 **Manitchaya Benjajuedsiri** | [GitHub](https://manitchaya2004.github.io/boardgame)                   |
 | 🛠️ **Teerakorn Tangwattanakit** | [GitHub](#)                   |
 | 🔍 **Addeen Salahsakul**       | [GitHub](https://itzdeenzxx.github.io/boardgame)                   |
 
