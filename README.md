@@ -2,13 +2,6 @@
 
 Welcome to my GitHub profile! 
 
-<h1 align="center">✨ ยินดีต้อนรับสู่ GitHub ของฉัน 🌸</h1>
-
-![Snake animation](https://github.com/{auksaraaa.github.io}/username/blob/output/github-snake-pink.svg)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username={auksaraaa.github.io}&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&text_color=ffb6c1&bg_color=ffffff"/>
-</p>
 ---
 ## 🌟 About Me
 - 🎀 Name: **Auksara Suwannawayuk**
