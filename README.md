@@ -1,7 +1,3 @@
-# 👋 Hi, I'm auksaraaa!
-
-Welcome to my GitHub profile! 
-
 ---
 ## 🌟 About Me
 - 🎀 Name: **Auksara Suwannawayuk**
