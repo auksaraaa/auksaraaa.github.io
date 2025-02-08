@@ -1,3 +1,7 @@
+## 👋🏻 auksara
+welcome to my github page 😺✨
+
+---
 ## 🌟 About Me
 - 🎀 Name: **Auksara Suwannawayuk**
 - 💳 Nisit ID: **6530200886**
