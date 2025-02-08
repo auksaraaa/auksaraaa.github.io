@@ -54,3 +54,9 @@ img:hover {
   transform: scale(1.03); /* ขยายเล็กน้อย */
   transition: 0.3s ease-in-out;
 }
+.main-content img {
+  max-width: 80%; /* ลดขนาดรูปเหลือ 80% ของ container */
+  height: auto;
+  display: block;
+  margin: 0 auto; /* จัดกึ่งกลาง */
+}
