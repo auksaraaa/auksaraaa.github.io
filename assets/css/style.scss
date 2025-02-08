@@ -39,3 +39,18 @@ a:hover {
   background-color: #FF69B4;
   border-color: #FF1493;
 }
+img {
+  border: 5px solid #FFB6C1; /* กรอบสีชมพูอ่อน */
+  border-radius: 10px; /* มุมมน */
+  padding: 5px; /* เพิ่มช่องว่างระหว่างรูปกับกรอบ */
+  background-color: #FFF0F5; /* สีพื้นหลังกรอบ */
+  box-shadow: 3px 3px 10px rgba(255, 182, 193, 0.5); /* เพิ่มเงาเบาๆ */
+}
+
+/* เมื่อเมาส์ชี้ที่รูป */
+img:hover {
+  border-color: #FF69B4; /* เปลี่ยนเป็นชมพูเข้ม */
+  box-shadow: 5px 5px 15px rgba(255, 105, 180, 0.6); /* เพิ่มเงาชัดขึ้น */
+  transform: scale(1.03); /* ขยายเล็กน้อย */
+  transition: 0.3s ease-in-out;
+}
