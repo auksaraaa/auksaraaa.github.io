@@ -1,4 +1,4 @@
-## 👋🏻 auksara
+## 👋🏻 I'm auksara
 welcome to my github page 😺✨
 
 ---
