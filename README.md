@@ -1,4 +1,3 @@
----
 ## 🌟 About Me
 - 🎀 Name: **Auksara Suwannawayuk**
 - 💳 Nisit ID: **6530200886**
