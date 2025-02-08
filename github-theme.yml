@@ -1,0 +1,55 @@
+name: GitHub Theme
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ auksaraaa.github.io }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Custom Badge
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v1.0.0
+          release_name: First Release
+          body: |
+            🎨 Custom GitHub Profile Theme
+            Features:
+            - Snake animation
+            - Custom contribution graph
+            - Dark mode support
+            
+      - name: Profile Trophy
+        uses: ryo-ma/github-profile-trophy@v2
+        with:
+          theme: nord
+          no-frame: true
+          column: 7
+          
+      - name: GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          show_icons: true
+          theme: radical
+          include_all_commits: true
+          count_private: true
