@@ -7,7 +7,7 @@
 ---
 
 ## ✅ **Check-in**  
-![Check-in](Meitu)  
+![Check-in](image/MEITU_20250308_114345776.jpg)  
 
 ---
 
