@@ -18,7 +18,7 @@
 > อำเภอ: **ศรีราชา**  
 > จังหวัด: **ชลบุรี**  
 
-![Voting Location](https://your-image-url.com/location.jpg)  
+![Voting Location](image/IMG_20250308_125925.jpg)  
 
 ---
 
