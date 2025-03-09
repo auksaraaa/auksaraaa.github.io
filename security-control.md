@@ -3,7 +3,7 @@
 ### 🛡️ Type of Security Control: Physical Security Control  
 ### ⚙️ Control Function: Preventative  
 
-![Lock the Door](your-image-link-here) 
+![Lock the Door](image/260746.jpg) 
 
 ---
 
