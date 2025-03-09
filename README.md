@@ -20,5 +20,6 @@ welcome to my github profile 😺✨
 - 🎮 board game:[🧩 cyber security board games](board-games.md)
 - 📓 Security requirements:[📒Malicious Code Search](security-requirements.md)
 - ✅ pao election: [🗳️pao-election](pao-election.md)
+- 🚪 Security Control: [🔐Security Control](security-control.md)
   
 ![me](image/MEITU_20241110_191116000.jpg)
